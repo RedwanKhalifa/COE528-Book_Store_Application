@@ -1,0 +1,6 @@
+Book title
+500.0
+book d
+200.0
+bpp
+3222.0
